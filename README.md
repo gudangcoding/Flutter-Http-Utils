@@ -1,8 +1,3 @@
-# flutter_http
+# Http Utils
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Http Utils for Flutter
